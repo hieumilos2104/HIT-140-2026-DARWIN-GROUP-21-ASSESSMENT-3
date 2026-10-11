@@ -1,0 +1,22 @@
+match_id,date,stage,team_a,team_b,fifa_points_diff,fifa_trend_1y_diff,host_diff,rest_days_diff,strong_conf_diff,wc2022_stage_diff,prior_gf_pg_diff,prior_ga_pg_diff,goal_diff
+31,2026-06-19,Group stage,Turkey,Paraguay,100.38,33.88,0,-1.0,0,0,-0.5,-1.0,-1
+66,2026-06-26,Group stage,New Zealand,Belgium,-466.66,-19.14,0,0.0,-1,-1,0.6667,1.3333,-4
+65,2026-06-26,Group stage,Egypt,Iran,-57.21,48.3,0,0.0,0,-1,0.6667,0.0,0
+54,2026-06-24,Group stage,Czech Republic,Mexico,-181.74,15.59,-1,0.0,1,-1,-0.3333,1.0,-3
+46,2026-06-23,Group stage,England,Ghana,481.14,1.15,0,0.0,1,2,1.5,1.0,0
+94,2026-07-06,Round of 16,USA,Belgium,-71.01,-5.67,1,0.0,-1,1,0.2,0.0,-3
+92,2026-07-05,Round of 16,Mexico,England,-140.54,-16.95,1,1.0,-1,-2,0.0,-0.6,-1
+48,2026-06-23,Group stage,Colombia,DR Congo,223.92,-43.44,0,0.0,1,0,1.0,0.0,1
+11,2026-06-14,Group stage,Ivory Coast,Ecuador,-57.65,29.58,0,0.0,-1,-1,0.0,0.0,1
+1,2026-06-11,Group stage,Mexico,South Africa,259.1,12.68,1,0.0,0,1,0.0,0.0,2
+19,2026-06-16,Group stage,Argentina,Algeria,306.24,-75.32,0,0.0,1,7,0.0,0.0,3
+32,2026-06-19,Group stage,Brazil,Haiti,472.76,-43.51,0,0.0,1,3,0.5,0.0,3
+89,2026-07-04,Round of 16,Canada,Morocco,-195.62,-45.84,1,1.0,0,-3,0.4,-0.2,-3
+96,2026-07-07,Round of 16,Switzerland,Colombia,-48.29,-3.91,0,1.0,0,2,0.8,0.4,0
+78,2026-06-30,Round of 32,France,Sweden,360.91,44.31,0,-1.0,0,6,0.75,-1.25,3
+5,2026-06-13,Group stage,Qatar,Switzerland,-199.75,-24.52,0,0.0,-1,-1,0.0,0.0,0
+81,2026-07-01,Round of 32,Belgium,Senegal,58.17,-43.11,0,0.0,1,-1,-0.5,-1.0,1
+34,2026-06-20,Group stage,Germany,Ivory Coast,194.9,-38.63,0,0.0,1,1,3.0,0.5,1
+13,2026-06-15,Group stage,Belgium,Egypt,179.87,-37.72,0,0.0,1,1,0.0,0.0,0
+27,2026-06-18,Group stage,Canada,Qatar,109.17,20.08,1,1.0,0,0,0.0,0.0,6
+99,2026-07-11,Quarter-finals,Norway,England,-270.58,23.32,0,0.0,0,-3,0.1667,0.6667,-1

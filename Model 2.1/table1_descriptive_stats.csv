@@ -1,0 +1,10 @@
+,mean,std,min,max
+fifa_points_diff,55.188,231.49,-489.53,506.16
+fifa_trend_1y_diff,-7.876,30.692,-75.32,61.07
+host_diff,0.067,0.376,-1.0,1.0
+rest_days_diff,0.115,0.527,-1.0,3.0
+strong_conf_diff,0.154,0.747,-1.0,1.0
+wc2022_stage_diff,0.413,2.736,-7.0,7.0
+prior_gf_pg_diff,0.03,0.826,-3.0,3.0
+prior_ga_pg_diff,-0.11,0.766,-3.0,2.0
+goal_diff,0.481,2.024,-4.0,6.0

@@ -1,0 +1,22 @@
+match_id,team_a,team_b,actual_goal_diff,predicted_goal_diff,residual
+31,Turkey,Paraguay,-1,1.281,-2.281
+66,New Zealand,Belgium,-4,-3.032,-0.968
+65,Egypt,Iran,0,-0.002,0.002
+54,Czech Republic,Mexico,-3,-1.277,-1.723
+46,England,Ghana,0,2.214,-2.214
+94,USA,Belgium,-3,0.313,-3.313
+92,Mexico,England,-1,-0.006,-0.994
+48,Colombia,DR Congo,1,1.11,-0.11
+11,Ivory Coast,Ecuador,1,-0.367,1.367
+1,Mexico,South Africa,2,2.413,-0.413
+19,Argentina,Algeria,3,1.719,1.281
+32,Brazil,Haiti,3,2.447,0.553
+89,Canada,Morocco,-3,-0.226,-2.774
+96,Switzerland,Colombia,0,-0.404,0.404
+78,France,Sweden,3,2.401,0.599
+5,Qatar,Switzerland,0,-1.335,1.335
+81,Belgium,Senegal,1,0.974,0.026
+34,Germany,Ivory Coast,1,0.377,0.623
+13,Belgium,Egypt,0,1.227,-1.227
+27,Canada,Qatar,6,1.679,4.321
+99,Norway,England,-1,-1.204,0.204

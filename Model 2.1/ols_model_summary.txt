@@ -1,0 +1,32 @@
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:              goal_diff   R-squared:                       0.442
+Model:                            OLS   Adj. R-squared:                  0.382
+Method:                 Least Squares   F-statistic:                     7.337
+Date:                Thu, 08 Oct 2026   Prob (F-statistic):           3.90e-07
+Time:                        19:03:59   Log-Likelihood:                -147.49
+No. Observations:                  83   AIC:                             313.0
+Df Residuals:                      74   BIC:                             334.8
+Df Model:                           8                                         
+Covariance Type:            nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                  0.1742      0.189      0.921      0.360      -0.203       0.551
+fifa_points_diff       0.0046      0.001      3.415      0.001       0.002       0.007
+fifa_trend_1y_diff     0.0059      0.006      0.911      0.365      -0.007       0.019
+host_diff              0.9558      0.647      1.478      0.144      -0.333       2.245
+rest_days_diff        -0.0689      0.334     -0.206      0.837      -0.734       0.596
+strong_conf_diff       0.4284      0.308      1.392      0.168      -0.185       1.042
+wc2022_stage_diff      0.0222      0.098      0.227      0.821      -0.172       0.217
+prior_gf_pg_diff      -0.2632      0.258     -1.020      0.311      -0.778       0.251
+prior_ga_pg_diff      -0.2480      0.239     -1.039      0.302      -0.724       0.227
+==============================================================================
+Omnibus:                        0.832   Durbin-Watson:                   2.102
+Prob(Omnibus):                  0.660   Jarque-Bera (JB):                0.613
+Skew:                           0.210   Prob(JB):                        0.736
+Kurtosis:                       3.010   Cond. No.                         957.
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.

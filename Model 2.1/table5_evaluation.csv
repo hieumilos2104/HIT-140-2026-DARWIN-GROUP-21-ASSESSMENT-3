@@ -1,0 +1,7 @@
+,Full model (8 variables),Baseline (predict mean)
+R2 train,0.442,
+Adj R2 train,0.382,
+R2 test,0.477,-0.017
+RMSE test,1.699,2.368
+MAE test,1.273,1.839
+CV R2 (5-fold mean),0.329,
